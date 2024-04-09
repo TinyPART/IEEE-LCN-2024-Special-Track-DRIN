@@ -1,0 +1,9 @@
+remote_theme: jekyll/minima
+title: DRIN 2024
+description: DevSecOps in Ressource-constrained IoT Networks
+header_pages:
+  - #Scope
+author:
+  name: DRIN © 2024
+
+
