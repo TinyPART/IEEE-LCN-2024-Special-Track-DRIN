@@ -81,9 +81,9 @@ Paper registration and submission will be through EDAS.
 - TBD
 
 ### Publicity Chair
-- TBD
+- Bastien Buil (Orange Labs)
 
 ### Web Chair
-- TBD
+- Bastien Buil (Orange Labs)
 
 
