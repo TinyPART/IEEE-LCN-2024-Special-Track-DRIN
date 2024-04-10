@@ -36,7 +36,7 @@ Topics of interest include, but are not limited to:
 - Software update security for post-issuance and CI/CD in low-power IoT devices
 - Cloud continuum, edge & fog computing
 - Reformable TinyML
-- IoT DevSecOps use cases: Smart cities, e-health, industry 4.0, home automation applications...
+- IoT DevSecOps use cases: Smart cities, e-health, Industry 4.0, home automation applications...
 - Software Defined Internet of Things (IoT) & Network Function Virtualization (NFV)
 - Network Management for fleets of resource-constrained DevSecOps
 - Embedded Software & platforms for low-power Internet of Things
@@ -46,8 +46,8 @@ Topics of interest include, but are not limited to:
 - **Abstract Submission**: June 2, 2024
 - **Paper Submission**: June 15, 2024
 - **Acceptance Notification**: July 13, 2024
-- **Camera Ready**: TBD
-- **Early Registration**: TBD
+- **Camera Ready**: July 25, 2024
+- **Registration**: please register via [IEEE LCN](https://www.ieeelcn.org/)
 
 ## Author Information
 Authors are invited to submit papers for presentation at the conference, describing original, previously unpublished work, not currently under review by another conference, workshop, or journal. 
