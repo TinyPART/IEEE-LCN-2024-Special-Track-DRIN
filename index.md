@@ -78,7 +78,12 @@ Paper registration and submission will be through EDAS.
 
   
 ### Program Committee
-- TBD
+- Marian Buschsieweke (Madgeburg Universiät, Germany)
+- Malisa Vucinic (Inria, France)
+- Oliver Hahm (Frankfurt Universität, Germany)
+- Marc-Oliver Pahl (IMT Atlantique, France)
+- Kaspar Schleiser (FU Berlin, Germany)
+- More to come!
 
 ### Publicity Chair
 - Bastien Buil (Orange Labs)
