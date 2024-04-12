@@ -4,7 +4,7 @@
 _1st IEEE LCN Special Track on_
 {: style="text-align: center"}
 
-_DevSecOps in Ressource-constrained IoT Networks (DRIN) 2024_
+_DevSecOps in Resource-Constrained IoT Networks (DRIN) 2024_
 {: style="text-align: center"}
 
 Caen, Normandy, France
