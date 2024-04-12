@@ -82,10 +82,10 @@ Paper registration and submission will be through EDAS.
 - Malisa Vucinic (Inria, France)
 - Oliver Hahm (Frankfurt Universität, Germany)
 - Marc-Oliver Pahl (IMT Atlantique, France)
-- Etienne Riviere (KU Leuven)
+- Etienne Riviere (KU Leuven, Belgium)
 - Kaspar Schleiser (FU Berlin, Germany)
-- Ghada Arfaoui (Orange Labs)
-- Lionel Metongnon (UCLouvain)
+- Ghada Arfaoui (Orange Labs, France)
+- Lionel Metongnon (UCLouvain, Belgium)
 - More to come!
 
 ### Publicity Chair
