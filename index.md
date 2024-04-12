@@ -86,7 +86,7 @@ Paper registration and submission will be through EDAS.
 - Kaspar Schleiser (FU Berlin, Germany)
 - Ghada Arfaoui (Orange Labs, France)
 - Lionel Metongnon (UCLouvain, Belgium)
-- Hannes Tschofenig, (Siemens, Austria)
+- Hannes Tschofenig (Siemens, Austria)
 - More to come!
 
 ### Publicity Chair
