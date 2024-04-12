@@ -87,6 +87,7 @@ Paper registration and submission will be through EDAS.
 - Ghada Arfaoui (Orange Labs, France)
 - Lionel Metongnon (UCLouvain, Belgium)
 - Hannes Tschofenig (Siemens, Austria)
+- Samia Bouzefrane (Cnam, France)
 - More to come!
 
 ### Publicity Chair
