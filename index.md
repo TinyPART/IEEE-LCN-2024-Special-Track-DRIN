@@ -80,9 +80,9 @@ Paper registration and submission will be through EDAS.
 ### Program Committee
 - Marian Buschsieweke (Madgeburg Universiät, Germany)
 - Malisa Vucinic (Inria, France)
+- Etienne Riviere (KU Leuven, Belgium)
 - Oliver Hahm (Frankfurt Universität, Germany)
 - Marc-Oliver Pahl (IMT Atlantique, France)
-- Etienne Riviere (KU Leuven, Belgium)
 - Kaspar Schleiser (FU Berlin, Germany)
 - Ghada Arfaoui (Orange Labs, France)
 - Lionel Metongnon (UCLouvain, Belgium)
