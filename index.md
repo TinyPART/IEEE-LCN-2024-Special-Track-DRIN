@@ -23,7 +23,7 @@ Caen, Normandy, France
 As the Internet of Things (IoT) is being massively deployed, and as agile software development and continuous deployment has become the norm, a challenging gap exists in terms of security and techniques for joint software development (Dev) and IT operations (Ops) on low-power IoT devices.
 {: style="text-align: justify"}
 
-The first IEEE LCN Special Track on DevSecOps in Ressource-constrained IoT Networks (DRIN) is inviting  researchers to submit original and unpublished papers pertaining to DevOps and Security in resource-limited IoT environments.
+The first IEEE LCN Special Track on DevSecOps in resource-constrained IoT networks (DRIN) is inviting  researchers to submit original and unpublished papers pertaining to DevOps and Security in resource-limited IoT environments.
 {: style="text-align: justify"}
 
 Tailored as small workshop, DRIN aims to cover novel contributions regarding protocols, technologies, architectures, performance evaluation, optimization, modeling, implementation, simulation and experiments, as well as reports analyzing deployments and best practices for security, continuous integration, continuous deployment, and more generally for system software life-cycle management on resource-constrained, networked devices.
