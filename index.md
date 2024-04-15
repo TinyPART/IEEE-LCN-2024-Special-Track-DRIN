@@ -16,7 +16,7 @@ Caen, Normandy, France
 **co-located with [IEEE LCN 2024](https://www.ieeelcn.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://www.ieeelcn.org/)**
+**Submission link: [click here](https://edas.info/N31739)**
 {: style="text-align: center"}
 
 ## Scope
@@ -63,7 +63,7 @@ Note that DRIN follows a blind review policy (i.e. not double-blind).
 The names and affiliations of all the authors must be present in the submitted manuscript.
 {: style="text-align: justify"}
 
-Paper registration and submission will be through EDAS.
+Paper registration and submission will be through [EDAS](https://edas.info/N31739).
 {: style="text-align: justify"}
 
 * * *
