@@ -16,7 +16,7 @@ Caen, Normandy, France
 **co-located with [IEEE LCN 2024](https://www.ieeelcn.org/)**
 {: style="text-align: center"}
 
-**Submission link: [click here](https://edas.info/N31739)**
+**Submission link: [click here](https://edas.info/N32401)**
 {: style="text-align: center"}
 
 ## Scope
@@ -86,13 +86,13 @@ Paper registration and submission will be through [EDAS](https://edas.info/N3173
 - Kaspar Schleiser (FU Berlin, Germany)
 - Lionel Metongnon (UCLouvain, Belgium)
 - Hannes Tschofenig (Siemens, Austria)
-- Samia Bouzefrane (Cnam, France)
+- Samia Bouzefrane (CNAM, France)
 - More to come!
 
 ### Publicity Chair
-- Bastien Buil (Orange Labs)
+- Bastien Buil (Orange Labs, France)
 
 ### Web Chair
-- Bastien Buil (Orange Labs)
+- Bastien Buil (Orange Labs, France)
 
 
