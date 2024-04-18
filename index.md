@@ -78,7 +78,7 @@ Paper registration and submission will be through [EDAS](https://edas.info/N3173
 
   
 ### Program Committee
-- Marian Buschsieweke (Madgeburg Universiät, Germany)
+- Marian Buschsieweke (Magdeburg Universität, Germany)
 - Malisa Vucinic (Inria, France)
 - Etienne Riviere (KU Leuven, Belgium)
 - Oliver Hahm (Frankfurt Universität, Germany)
