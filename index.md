@@ -84,6 +84,7 @@ Paper registration and submission will be through [EDAS](https://edas.info/N3173
 - Oliver Hahm (Frankfurt Universität, Germany)
 - Marc-Oliver Pahl (IMT Atlantique, France)
 - Kaspar Schleiser (FU Berlin, Germany)
+- Ghada Arfaoui (Orange Labs, France)
 - Lionel Metongnon (UCLouvain, Belgium)
 - Hannes Tschofenig (Siemens, Austria)
 - Samia Bouzefrane (CNAM, France)
