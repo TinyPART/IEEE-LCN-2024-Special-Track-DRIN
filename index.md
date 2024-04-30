@@ -44,7 +44,7 @@ Topics of interest include, but are not limited to:
 
 ## Important dates
 - **Abstract Submission**: June 1, 2024
-- **Paper Submission**: June 15, 2024
+- **Paper Submission**: June 15, 2024 (FIRM DEADLINE DUE TO IEEE LCN REQUIREMENTS)
 - **Acceptance Notification**: July 13, 2024
 - **Camera Ready**: July 25, 2024
 - **Registration**: please register via [IEEE LCN](https://www.ieeelcn.org/)
