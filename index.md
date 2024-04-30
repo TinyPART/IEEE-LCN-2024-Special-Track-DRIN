@@ -43,7 +43,7 @@ Topics of interest include, but are not limited to:
 - Secure wired & wireless communications for resource-constrained devices
 
 ## Important dates
-- **Abstract Submission**: June 2, 2024
+- **Abstract Submission**: June 1, 2024
 - **Paper Submission**: June 15, 2024
 - **Acceptance Notification**: July 13, 2024
 - **Camera Ready**: July 25, 2024
