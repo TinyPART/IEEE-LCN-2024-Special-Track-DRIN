@@ -88,6 +88,7 @@ Paper registration and submission will be through [EDAS](https://edas.info/N3173
 - Lionel Metongnon (UCLouvain, Belgium)
 - Hannes Tschofenig (Siemens, Austria)
 - Samia Bouzefrane (CNAM, France)
+- Guillaume Bouffard (ANSSI, France)
 - More to come!
 
 ### Publicity Chair
